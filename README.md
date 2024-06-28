@@ -1,3 +1,4 @@
+<a href="https://app.rocketseat.com.br/me/jean-santos-diniz-02494"><p align="center"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=jean-santos-diniz-02494&type=card" width="280" alt="Jean Santos Diniz's Rocket ID"/></p></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-santos-diniz-9ba772246) 
